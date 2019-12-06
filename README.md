@@ -13,7 +13,8 @@
 **Flowchart**
 
 
-<br>![flowchart paktikum 5](https://user-images.githubusercontent.com/56870558/70296884-7046e000-181e-11ea-8480-5dd0ab207256.PNG)
+<br>![flowchart5](https://user-images.githubusercontent.com/56870558/70298094-067d0500-1823-11ea-8f21-00c389a774f8.PNG)
+
 
 <br>**hasil uji program**
 
